@@ -2,7 +2,6 @@
 *.*
 !.gitignore
 !/bins/
-!/UnzipAll.bat
-!/DeleteAll.bat
+!/*.bat
 !/*.zip
 !/7-zip/
