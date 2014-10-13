@@ -16,7 +16,7 @@
 #include <GLFW/glfw3.h>
 
 
-#define APP_NAME "TesselationLine"
+#define APP_NAME "TessellationLine"
 #define SCREEN_WIDTH (800)
 #define SCREEN_HEIGHT (600)
 
