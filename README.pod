@@ -1,0 +1,19 @@
+﻿=encoding utf8
+
+=head1 OpenGLTest
+
+=begin html
+<!-- Test -->
+=end html
+
+My OpenGL Test code.
+
+=head1 License
+
+zlib license
+
+=head1 Author
+
+@shobomaru
+
+=cut

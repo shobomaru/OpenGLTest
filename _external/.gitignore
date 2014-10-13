@@ -1,6 +1,7 @@
 *
 *.*
 !.gitignore
+!/bin/
 !/UnzipAll.bat
 !/DeleteAll.bat
 !/*.zip
